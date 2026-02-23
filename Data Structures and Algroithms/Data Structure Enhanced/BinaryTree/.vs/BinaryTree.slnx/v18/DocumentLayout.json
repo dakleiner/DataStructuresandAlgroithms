@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dklei\\source\\repos\\BinaryTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38998AC-7E61-488B-AFDC-1B3E22FC2C5C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\dklei\\source\\repos\\BinaryTree\\BinaryTree\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D38998AC-7E61-488B-AFDC-1B3E22FC2C5C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38998AC-7E61-488B-AFDC-1B3E22FC2C5C}|BinaryTree\\BinaryTree.vcxproj|C:\\Users\\dklei\\source\\repos\\BinaryTree\\BinaryTree\\CourseListings.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D38998AC-7E61-488B-AFDC-1B3E22FC2C5C}|BinaryTree\\BinaryTree.vcxproj|solutionrelative:BinaryTree\\CourseListings.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseListings.csv",
+              "DocumentMoniker": "C:\\Users\\dklei\\source\\repos\\BinaryTree\\BinaryTree\\CourseListings.csv",
+              "RelativeDocumentMoniker": "BinaryTree\\CourseListings.csv",
+              "ToolTip": "C:\\Users\\dklei\\source\\repos\\BinaryTree\\BinaryTree\\CourseListings.csv",
+              "RelativeToolTip": "BinaryTree\\CourseListings.csv",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwFUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-02-02T01:36:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryTree.cpp",
+              "DocumentMoniker": "C:\\Users\\dklei\\source\\repos\\BinaryTree\\BinaryTree\\BinaryTree.cpp",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.cpp",
+              "ToolTip": "C:\\Users\\dklei\\source\\repos\\BinaryTree\\BinaryTree\\BinaryTree.cpp",
+              "RelativeToolTip": "BinaryTree\\BinaryTree.cpp",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAowNsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T01:34:57.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

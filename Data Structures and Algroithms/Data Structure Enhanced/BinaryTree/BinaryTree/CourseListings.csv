@@ -1,0 +1,86 @@
+courseId,courseName,coursePrerequiste1,coursePrerequiste2
+CS101,Introduction to Computer Science I,,
+CS102,Introduction to Computer Science II,CS101,
+CS201,Data Structures and Algorithms,CS102,MATH201
+CS210,Discrete Mathematics for Computer Science,MATH101,
+CS220,Computer Organization and Architecture,CS102,
+CS250,Software Construction,CS102,
+CS301,Algorithms,CS201,CS210
+CS311,Theory of Computation,CS210,CS301
+CS321,Operating Systems,CS220,CS201
+CS330,Programming Languages,CS201,
+CS340,Databases,CS201,
+CS350,Computer Networks,CS220,
+CS360,Artificial Intelligence,CS301,
+CS370,Computer Graphics,MATH202,CS201
+CS380,Software Engineering,CS250,
+CS410,Compilers,CS330,CS301
+CS420,Distributed Systems,CS321,CS350
+CS430,Machine Learning,CS301,MATH301
+CS440,Advanced Databases,CS340,
+CS450,Network Security,CS350,
+CS460,Human-Computer Interaction,CS380,
+CS470,Data Mining,CS430,MATH301
+CS480,Computer Vision,CS370,CS430
+CS490,Blockchain and Cryptocurrency,CS450,CS301
+CS495,Special Topics in AI,CS430,
+CS499,Senior Capstone Project,CS380,
+MATH101,College Algebra,,
+MATH120,Precalculus,MATH101,
+MATH201,Calculus I,MATH120,
+MATH202,Calculus II,MATH201,
+MATH203,Calculus III,MATH202,
+MATH210,Linear Algebra,MATH201,
+MATH220,Differential Equations,MATH202,MATH210
+MATH230,Discrete Mathematics,MATH201,
+MATH301,Probability and Statistics,MATH202,
+MATH310,Multivariable Calculus,MATH203,
+MATH320,Abstract Algebra,MATH210,MATH230
+MATH330,Real Analysis,MATH203,
+MATH340,Numerical Methods,MATH220,CS102
+MATH350,Graph Theory,MATH230,
+MATH360,Complex Analysis,MATH330,
+MATH370,Topology,MATH330,
+MATH380,Number Theory,MATH320,
+MATH390,Operations Research,MATH210,MATH301
+STAT301,Introduction to Statistical Methods,MATH301,
+STAT310,Regression Analysis,STAT301,
+STAT320,Probability Theory,MATH301,MATH210
+STAT410,Bayesian Statistics,STAT301,
+PHYS101,General Physics I (Mechanics),MATH201,
+PHYS102,General Physics II (E&M),PHYS101,MATH202
+PHYS201,Modern Physics,PHYS102,MATH203
+PHYS211,Mechanics (Calculus-based),MATH201,
+PHYS212,Electricity and Magnetism,PHYS211,MATH202
+PHYS301,Quantum Mechanics I,PHYS201,MATH220
+PHYS310,Thermodynamics and Statistical Mechanics,PHYS102,MATH220
+PHYS320,Electrodynamics,PHYS212,MATH310
+PHYS330,Classical Mechanics,PHYS211,MATH220
+PHYS340,Solid State Physics,PHYS301,
+BIO101,General Biology I,,
+BIO102,General Biology II,BIO101,
+BIO201,Cell Biology,BIO102,CHEM101
+BIO210,Genetics,BIO102,
+BIO220,Ecology,BIO102,
+BIO301,Molecular Biology,BIO201,
+BIO310,Organic Evolution,BIO210,
+BIO320,Biochemistry I,CHEM201,BIO201
+BIO330,Human Physiology,BIO201,
+BIO340,Microbiology,BIO201,CHEM201
+BIO350,Neurobiology,BIO201,BIO330
+CHEM101,General Chemistry I,,
+CHEM102,General Chemistry II,CHEM101,
+CHEM201,Organic Chemistry I,CHEM102,
+CHEM202,Organic Chemistry II,CHEM201,
+CHEM301,Physical Chemistry I,CHEM202,PHYS102,MATH220
+CHEM310,Inorganic Chemistry,CHEM202,
+ENGL101,English Composition I,,
+ENGL102,English Composition II,ENGL101,
+ENGL201,Introduction to Literature,ENGL102,
+ENGL210,Creative Writing,ENGL102,
+ENGL220,Technical Writing,ENGL102,
+ENGL301,American Literature I,ENGL201,
+ENGL310,Shakespeare,ENGL201,
+ENGL320,British Literature I,ENGL201,
+ENGL330,World Literature,ENGL201,
+ENGL340,Science Fiction and Fantasy Literature,ENGL201,

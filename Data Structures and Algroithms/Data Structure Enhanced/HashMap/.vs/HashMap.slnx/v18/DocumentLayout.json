@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dklei\\source\\repos\\HashMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C5FD4A-3954-4504-B987-26DB170F2324}|HashMap\\HashMap.vcxproj|C:\\Users\\dklei\\source\\repos\\HashMap\\HashMap\\HashMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C5FD4A-3954-4504-B987-26DB170F2324}|HashMap\\HashMap.vcxproj|solutionrelative:HashMap\\HashMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C5FD4A-3954-4504-B987-26DB170F2324}|HashMap\\HashMap.vcxproj|C:\\Users\\dklei\\source\\repos\\HashMap\\HashMap\\CourseListings.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10C5FD4A-3954-4504-B987-26DB170F2324}|HashMap\\HashMap.vcxproj|solutionrelative:HashMap\\CourseListings.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseListings.csv",
+              "DocumentMoniker": "C:\\Users\\dklei\\source\\repos\\HashMap\\HashMap\\CourseListings.csv",
+              "RelativeDocumentMoniker": "HashMap\\CourseListings.csv",
+              "ToolTip": "C:\\Users\\dklei\\source\\repos\\HashMap\\HashMap\\CourseListings.csv",
+              "RelativeToolTip": "HashMap\\CourseListings.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-02-02T01:22:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashMap.cpp",
+              "DocumentMoniker": "C:\\Users\\dklei\\source\\repos\\HashMap\\HashMap\\HashMap.cpp",
+              "RelativeDocumentMoniker": "HashMap\\HashMap.cpp",
+              "ToolTip": "C:\\Users\\dklei\\source\\repos\\HashMap\\HashMap\\HashMap.cpp",
+              "RelativeToolTip": "HashMap\\HashMap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T01:21:43.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
